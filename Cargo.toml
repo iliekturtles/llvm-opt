@@ -1,0 +1,6 @@
+[package]
+name = "llvm-opt"
+version = "0.1.0"
+authors = ["Mike Boutin <mike.boutin@gmail.com>"]
+
+[dependencies]
